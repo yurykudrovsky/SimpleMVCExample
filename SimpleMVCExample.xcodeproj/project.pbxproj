@@ -13,7 +13,7 @@
 		69CEBCBB28BE0DEB0072744C /* SomeController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69CEBCBA28BE0DEB0072744C /* SomeController.swift */; };
 		69FC320328C49D3400648938 /* SomeService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69FC320228C49D3400648938 /* SomeService.swift */; };
 		69FC320928C4C6BC00648938 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 69FC320828C4C6BC00648938 /* README.md */; };
-		69FC321128C4CEC500648938 /* MVC.png in Resources */ = {isa = PBXBuildFile; fileRef = 69FC321028C4CEC500648938 /* MVC.png */; };
+		69FC321128C4CEC500648938 /* Diagram.png in Resources */ = {isa = PBXBuildFile; fileRef = 69FC321028C4CEC500648938 /* Diagram.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,7 +25,7 @@
 		69CEBCC428BE0DED0072744C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		69FC320228C49D3400648938 /* SomeService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SomeService.swift; sourceTree = "<group>"; };
 		69FC320828C4C6BC00648938 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
-		69FC321028C4CEC500648938 /* MVC.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = MVC.png; sourceTree = "<group>"; };
+		69FC321028C4CEC500648938 /* Diagram.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Diagram.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -43,7 +43,7 @@
 			isa = PBXGroup;
 			children = (
 				69FC320828C4C6BC00648938 /* README.md */,
-				69FC321028C4CEC500648938 /* MVC.png */,
+				69FC321028C4CEC500648938 /* Diagram.png */,
 				69CEBCB528BE0DEB0072744C /* SimpleMVCExample */,
 				69CEBCB428BE0DEB0072744C /* Products */,
 			);
@@ -152,7 +152,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				69FC321128C4CEC500648938 /* MVC.png in Resources */,
+				69FC321128C4CEC500648938 /* Diagram.png in Resources */,
 				69FC320928C4C6BC00648938 /* README.md in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

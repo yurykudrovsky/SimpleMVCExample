@@ -1,2 +1,2 @@
 # SimpleMVCExample
-![MVC](MVC.png)
+![MVC](Diagram.png)
